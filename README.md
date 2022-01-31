@@ -5,7 +5,7 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/c
 git clone https://github.com/shawnmccarthy/week1.git <br/>
 rm -R -f .git <br/>
 git init <br/>
-git add remote https://github.com/YOUNAME/week1.git <br/>
+git remote add https://github.com/YOUNAME/week1.git <br/>
 git add . <br/>
 git commit -m "first commit" <br/>
 git push origin main <br/>
